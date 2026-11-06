@@ -1,5 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "EmpierKal initial update configuration.",
-  "files": []
+  "version": "2.1.1",
+  "notes": "EmpierKal Auto Update Test",
+  "files": [
+    {
+      "path": "EmpierKal_Update_Test.txt",
+      "url": "https://github.com/empokalkal-commits/empierkal-updates/releases/download/v1.0.1-test/EmpierKal_Update_Test.txt",
+      "sha256": "8b16986b2527bcc269f69e03edbf1eab05ef9b30e39d04fd6872c291284036a5"
+    }
+  ]
 }
