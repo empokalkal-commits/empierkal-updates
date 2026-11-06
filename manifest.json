@@ -1,11 +1,21 @@
 {
-  "version": "2.1.1",
-  "notes": "EmpierKal Auto Update Test",
+  "version": "2.1.2",
+  "notes": "EmpierKal Game Files Update Test",
   "files": [
     {
-      "path": "EmpierKal_Update_Test.txt",
-      "url": "https://github.com/empokalkal-commits/empierkal-updates/releases/download/v1.0.1-test/EmpierKal_Update_Test.txt",
-      "sha256": "8b16986b2527bcc269f69e03edbf1eab05ef9b30e39d04fd6872c291284036a5"
+      "path": "data/Config/config.pk",
+      "url": "https://github.com/empokalkal-commits/empierkal-updates/releases/download/v2.1.2-test/config.pk",
+      "sha256": "e25a08ed85eac2bbc3a9713ba4052d82d22357bcbdb1e898b8a2d546ed345ed1"
+    },
+    {
+      "path": "data/HyperText/active011.bmp",
+      "url": "https://github.com/empokalkal-commits/empierkal-updates/releases/download/v2.1.2-test/active011.bmp",
+      "sha256": "092d1ec53fd18bc4e6a8958393718406a16c3adb878c2a31814ad6710be27769"
+    },
+    {
+      "path": "data/HyperText/active012.BMP",
+      "url": "https://github.com/empokalkal-commits/empierkal-updates/releases/download/v2.1.2-test/active012.BMP",
+      "sha256": "608b4f020e6c09ad833e6d06be6ef6c791ceb64f6e761c6a4aa07c8a9112c2c7"
     }
   ]
 }
